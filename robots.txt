@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://londonelectricalpros.ca/sitemap-index.xml
